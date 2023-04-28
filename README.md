@@ -1,7 +1,5 @@
 ## SAGAR TAMANG
 
-<hr>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **sagar.bdr0000@gmail.com**
