@@ -1,6 +1,6 @@
 ## SAGAR TAMANG
 
-- 🌱 I’m currently learning **Data Analysis using Python**
+- 🌱 I’m currently learning **Data Analysis** using **Python**
 
 - 📫 How to reach me **sagar.bdr0000@gmail.com** or **cs22bcagn033@kazirangauniversity.in**
 
