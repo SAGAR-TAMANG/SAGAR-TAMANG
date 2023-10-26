@@ -2,7 +2,7 @@
 
 - 🌱 I’m proficient in **Data Science** tools, along with Full Stack Development in **Django-Python**!
 
-- 📫 How to reach me **sagar.bdr0000@gmail.com** or **cs22bcagn033@kazirangauniversity.in**
+- 📫 Reach out to me at **sagar.bdr0000@gmail.com** or **cs22bcagn033@kazirangauniversity.in**
 
 <h1 align="center">Get In Touch!</h1>
 <br>
