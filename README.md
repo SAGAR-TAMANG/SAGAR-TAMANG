@@ -8,12 +8,12 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-tmg/">
-    <img align="center" src="https://github.com/SAGAR-TAMANG/icons/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://github.com/SAGAR-TAMANG/SAGAR-TAMANG/blob/main/icons/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a> 
   <a href="https://www.youtube.com/@sagartamang0000">
-    <img align="center" src="https://github.com/SAGAR-TAMANG/icons/youtube.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://github.com/SAGAR-TAMANG/SAGAR-TAMANG/blob/main/icons/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a> 
   <a href="mailto:sagar.bdr0000@gmail.com">
-    <img alt="TF" src="https://github.com/SAGAR-TAMANG/icons/mail.svg" alt="Mail" height="30" width="40"  />
+    <img align="center" src="https://github.com/SAGAR-TAMANG/SAGAR-TAMANG/blob/main/icons/mail.svg" alt="Mail" height="30" width="40"  />
   </a>
 </p>
