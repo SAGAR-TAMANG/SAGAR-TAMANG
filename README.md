@@ -7,6 +7,13 @@
 <h1 align="center">Get In Touch!</h1>
 <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sagar-tmg/"><img alt="TF" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/><a> 
-  <a href="mailto:sagar.bdr0000@gmail.com"><img alt="TF" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sagar-tmg/">
+    <img align="center" src="https://github.com/SAGAR-TAMANG/icons/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a> 
+  <a href="https://www.youtube.com/@sagartamang0000">
+    <img align="center" src="https://github.com/SAGAR-TAMANG/icons/youtube.svg" alt="LinkedIn" height="30" width="40" />
+  </a> 
+  <a href="mailto:sagar.bdr0000@gmail.com">
+    <img alt="TF" src="https://github.com/SAGAR-TAMANG/icons/mail.svg" alt="Mail" height="30" width="40"  />
+  </a>
 </p>
