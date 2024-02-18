@@ -8,7 +8,7 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-tmg/">
-    <img align="center" src="https://github.com/SAGAR-TAMANG/SAGAR-TAMANG/blob/main/icons/linked-in-alt.svg" alt="LinkedIn" height="20" width="40" />
+    <img align="top" src="https://github.com/SAGAR-TAMANG/SAGAR-TAMANG/blob/main/icons/linked-in-alt.svg" alt="LinkedIn" height="25" width="40" />
   </a> 
   <a href="https://www.youtube.com/@sagartamang0000">
     <img align="center" src="https://github.com/SAGAR-TAMANG/SAGAR-TAMANG/blob/main/icons/youtube.svg" alt="LinkedIn" height="30" width="40" />
