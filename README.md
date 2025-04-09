@@ -1,6 +1,8 @@
 ## SAGAR TAMANG
 
-- 🌱 I’m proficient in **Data Science** tools, along with Full Stack Development in **Django-Python**!
+- 🌱 I’m proficient in **Full Stack Development** using Django-Python with HTMX!
+
+- 🤝 I write **academic papers** as a hobby. Open to **collaborate** in topics like: AI Safety, NLP, and Multi-Agent Systems (MAS).
 
 - 📫 Reach out to me at **sagar.bdr0000@gmail.com** or **cs22bcagn033@kazirangauniversity.in**
 
