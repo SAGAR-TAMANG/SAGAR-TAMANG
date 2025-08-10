@@ -4,7 +4,7 @@
 
 - 🤝 I write **academic papers** as a hobby. Open to **collaborate** in topics like: AI Safety, NLP, and Multi-Agent Systems (MAS).
 
-- 📫 Reach out to me at **sagar.bdr0000@gmail.com** or **cs22bcagn033@kazirangauniversity.in**
+- 📫 Reach out to me at **sagar.bdr0000@gmail.com** or **cs22bcagn033@kazirangauniversity.in** or **sagar_pa2508mch184@iitp.ac.in**
 
 <h1 align="center">Get In Touch!</h1>
 <br>
