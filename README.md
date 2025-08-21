@@ -1,6 +1,6 @@
 ## SAGAR TAMANG
 
-- 🌱 I’m proficient in **Full Stack Development** using Django-Python with HTMX!
+- 🌱 I’m proficient in **Full Stack Development** (Django-Python with HTMX, React/Next JS)!
 
 - 🤝 I write **academic papers** as a hobby. Open to **collaborate** in topics like: AI Safety, NLP, and Multi-Agent Systems (MAS).
 
