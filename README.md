@@ -4,7 +4,7 @@
 
 I build AI agents, tools, and interactive experiences, then share what I learn as **[@sagar_builds](https://www.instagram.com/sagar_builds/)**. Currently an AI engineer at [twospoon.ai](https://twospoon.ai/), exploring how AI can move from conversation to useful action.
 
-[Portfolio](https://sagartamang.com/) · [Writing](https://sagartamang.com/blog) · [YouTube](https://www.youtube.com/@sagartamang0000) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=3mS0Y4wAAAAJ) · [Email](mailto:sagar.bdr0000@gmail.com)
+[Portfolio](https://sagartamang.com/) · [Writing](https://sagartamang.com/blog) · [YouTube](https://www.youtube.com/@sagartamang0000) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=3mS0Y4wAAAAJ) · [Email](mailto:build@sagartamang.com)
 
 Python · TypeScript · Django / HTMX · React / Next.js · MCP · PyTorch · Three.js
 
@@ -185,7 +185,7 @@ These are forks of other projects. Their star badges refer to my fork, not the u
 
 I share builds, walkthroughs, and experiments on [Instagram](https://www.instagram.com/sagar_builds/), [YouTube](https://www.youtube.com/@sagartamang0000), and [X](https://x.com/sagar_builds).
 
-For work or research collaborations: **[sagar.bdr0000@gmail.com](mailto:sagar.bdr0000@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/sagar-tmg/)
+For work or research collaborations: **[build@sagartamang.com](mailto:build@sagartamang.com)** · [LinkedIn](https://www.linkedin.com/in/sagar-tmg/)
 
 Outside the editor: superbikes, books, and ancient Greek philosophy & history.
 
